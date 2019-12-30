@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hadoop-examples">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hadoop-examples.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
